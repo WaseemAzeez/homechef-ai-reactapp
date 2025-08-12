@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Plus } from 'lucide-react';
-import ClaudeRecipe from "./Clauderecipe";
+import ClaudeRecipe from "./ClaudeRecipe";
 import IngredientList from "./IngredientList";
 import { getRecipeFromHuggingFace } from "../../ai";
 
